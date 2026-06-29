@@ -176,9 +176,6 @@ Sales-Data-Analytics/
 ├── Presentation/
 │   └── Sales_Analytics_Presentation.pdf
 │
-├── Images/
-│   └── dashboard.png
-│
 └── README.md
 ```
 
