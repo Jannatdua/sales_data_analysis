@@ -40,7 +40,7 @@ The dataset contains information related to:
 * **SQL**
 * **Power BI**
 * **DAX (Data Analysis Expressions)**
-* **Git & GitHub**
+* **GitHub**
 
 ---
 
@@ -125,21 +125,6 @@ An interactive dashboard was developed to visualize key business metrics.
 
 ---
 
-## 6. Report & Presentation
-
-A detailed project report was prepared covering:
-
-* Project Overview
-* Data Cleaning Process
-* SQL Analysis
-* Dashboard Explanation
-* Business Insights
-* Recommendations
-
-A presentation summarizing the project was created using **Gamma**.
-
----
-
 # Key Results
 
 * Identified the highest-performing countries based on sales.
@@ -193,7 +178,7 @@ git clone: https://github.com/Jannatdua/sales_data_analysis.git
 ### 2. Install Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+pip install pandas numpy matplotlib seaborn sqlalchemy
 ```
 
 ---
