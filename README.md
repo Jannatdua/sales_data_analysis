@@ -85,7 +85,7 @@ The following preprocessing steps were performed:
 Business-focused SQL queries were written to analyze:
 
 * Total Sales by Country
-* Top 10 Customers
+* Top 5 Customers
 * Monthly Sales Trend
 * Yearly Sales
 * Product Line Performance
