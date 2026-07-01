@@ -40,7 +40,6 @@ The dataset contains information related to:
 * **SQL**
 * **Power BI**
 * **DAX (Data Analysis Expressions)**
-* **Gamma** (Presentation)
 * **Git & GitHub**
 
 ---
