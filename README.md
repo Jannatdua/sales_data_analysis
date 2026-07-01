@@ -85,7 +85,7 @@ The following preprocessing steps were performed:
 Business-focused SQL queries were written to analyze:
 
 * Total Sales by Country
-* Top 5 Customers
+* Top 10 Customers
 * Monthly Sales Trend
 * Yearly Sales
 * Product Line Performance
@@ -115,7 +115,7 @@ An interactive dashboard was developed to visualize key business metrics.
 * Sales by Product Line
 * Monthly Sales Trend
 * Sales by Country
-* Top 10 Customers
+* Top 5 Customers
 
 **Interactive Slicers**
 
